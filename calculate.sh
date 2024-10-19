@@ -3,7 +3,7 @@
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 
-SRC_DIR="./src/main/java"
+SRC_DIR="./src"
 PACKAGE="org/example"
 CLASS_NAME="NumberFeature"
 CLASS_PATH="$SRC_DIR/$PACKAGE/$CLASS_NAME.java"
